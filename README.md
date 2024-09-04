@@ -3,7 +3,7 @@
 ## Project Overview
 RSVP Movies, a prominent Indian film production company known for producing several blockbuster movies, is planning to expand its audience by releasing a movie targeted at the global market in 2022. To ensure the success of this ambitious project, they are seeking data-driven insights to guide their decisions throughout the production and release process. 
 
-As a data analyst and SQL expert, your role is to analyze the data from movies released over the past three years and provide actionable recommendations that RSVP Movies can use to optimize their strategy for the upcoming global release.
+Assuming myself as a data analyst and SQL expert i analyzed the data from movies released over the past three years and provide actionable recommendations that RSVP Movies can use to optimize their strategy for the upcoming global release.
 
 ## Business Context
 RSVP Movies has a rich history of producing films primarily for the Indian audience. However, entering the global market introduces new challenges and opportunities that require a deep understanding of global movie trends. The company aims to leverage data analytics to make informed decisions that align with global audience preferences, maximize box office success, and enhance international brand recognition.
